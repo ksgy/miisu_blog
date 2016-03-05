@@ -1,0 +1,29 @@
+# Dependencies
+gems: [jekyll-paginate, jekyll-gist]
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            MiiSU
+tagline:          'Blog from the creators of MiiSU'
+description:      "We're ranting, sharing development and workshop adventures."
+url:              http://miisu.co.uk
+baseurl:          /
+
+author:
+  name:           'MiiSU'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+paginate_path: "page:num"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
