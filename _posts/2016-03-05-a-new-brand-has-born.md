@@ -3,7 +3,7 @@ layout: post
 title: A new brand has born
 ---
 
-## History
+## About miisu.co.uk
 
 On a sunny Saturday, we decided to step up and try something new. To have a brand which focuses on simplicity and elegance. Nothing less, nothing more. So we had the idea, we just had to make it happen. That was the tricky part.
 
