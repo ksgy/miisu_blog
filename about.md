@@ -14,7 +14,7 @@ Sometimes we share development ideas, rants; sometimes workshop ideas. Or any ki
 If you'd like to contact us, here's our
 
 * e-mail: [miisu@miisu.co.uk](mailto:miisu.co.uk)
-* Facebook: _miisu on facebook_
+* Facebook: [miisu.jewel](https://www.facebook.com/miisu.jewel)
 * Twitter: [@miisujewel](https://twitter.com/miisujewel)
 
 Coded with [Sublime Text 3](http://sublimetext.com), an amazing code editor
