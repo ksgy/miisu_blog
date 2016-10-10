@@ -19,6 +19,6 @@ Your brain dreams about that new necklace popped into your mind, but still, it's
 We're only at the beginning, but we already see how professional photos can change the first impression of a product. How the customer can see what we really creating. It's just inevitable, where you need to show the quality and every small detail about your product, your life.
 
 ## So,
-We'd like to show what our products and our life is about: we're opening the business on **22th October, 2016**!
+We'd like to show what our products and our life is about: we're opening the business within 2 weeks!
 
 Until then, check [MiiSU Shop](http://miisu.co.uk/shop/) what we have so far :)
