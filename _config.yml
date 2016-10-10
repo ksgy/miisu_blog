@@ -11,7 +11,8 @@ title:            MiiSU
 tagline:          'Blog from the creators of MiiSU'
 description:      "We're ranting, sharing development and workshop adventures."
 url:              http://miisu.co.uk/blog/
-baseurl:          /blog/
+baseurl:          /blog
+logo:             http://miisu.co.uk/skin/frontend/miisu/vstyle/images/promo1.jpg
 
 author:
   name:           'MiiSU'

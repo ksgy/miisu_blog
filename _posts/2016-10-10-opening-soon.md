@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Opening soon!
+image: /public/images/dslr.jpg
 ---
 
 ## Last 7 months
@@ -15,4 +16,4 @@ Your brain dreams about that new necklace popped into your mind, but still, it's
 
 We're only at the beginning, but we already see how professional photos can change the first impression of a product. How the customer can see what we really creating. It's just inevitable, where you need to show the quality and every small detail about your product, your life.
 
-![image-title-here]({{ site.baseurl }}/public/images/dslr.jpg)
+![DSLR]({{ site.baseurl }}/public/images/dslr.jpg)
