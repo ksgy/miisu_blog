@@ -14,6 +14,11 @@ That's why we took a step ahead and started learning DSLR photography. It's even
 
 Your brain dreams about that new necklace popped into your mind, but still, it's 3am in the morning and you're not even nearly satisfied with the end result of the photo you're working on.
 
+![DSLR]({{ site.baseurl }}/public/images/dslr.jpg)
+
 We're only at the beginning, but we already see how professional photos can change the first impression of a product. How the customer can see what we really creating. It's just inevitable, where you need to show the quality and every small detail about your product, your life.
 
-![DSLR]({{ site.baseurl }}/public/images/dslr.jpg)
+## So,
+We'd like to show what our products and our life is about: we're opening the business on **22th October, 2016**!
+
+Until then, check [MiiSU Shop](http://miisu.co.uk/shop/) what we have so far :)
