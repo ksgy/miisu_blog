@@ -10,8 +10,8 @@ permalink:        pretty
 title:            MiiSU
 tagline:          'Blog from the creators of MiiSU'
 description:      "We're ranting, sharing development and workshop adventures."
-url:              http://miisu.co.uk
-baseurl:          /
+url:              http://miisu.co.uk/blog/
+baseurl:          /blog/
 
 author:
   name:           'MiiSU'
