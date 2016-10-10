@@ -36,9 +36,22 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}" />
 
-  <meta property="og:url" content="http://miisu.co.uk/blog" />
+  <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:type" content="blog" />
-  <meta property="og:site_name" content="MiiSU" />
+  <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ site.logo }}{% endif %}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@{{ site.twitter.username | replace:'@','' }}">
+  {% if page.date %}
+    <meta name="twitter:creator" content="@{{ site.author.twitter | replace:'@','' }}">
+  {% endif %}
+  <meta name="twitter:title" content="{% if page.title %}{{ site.title}} &middot; {{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ site.logo }}{% endif %}">
+  <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+
+
 </head>
