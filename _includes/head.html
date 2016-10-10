@@ -27,7 +27,7 @@
                                  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}/atom.xml">
 
 
   <meta property="og:title" content="{% if page.title == "Home" %}
@@ -44,7 +44,7 @@
   <meta property="og:title" content="{% if page.title %}{{ site.title}} &middot; {{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.title }}{% endif %}">
 
 
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@{{ site.twitter.username | replace:'@','' }}">
   {% if page.date %}
     <meta name="twitter:creator" content="@{{ site.author.twitter | replace:'@','' }}">
