@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            MiiSU blog
-tagline:          'Blog from the creators of MiiSU'
+tagline:          'from the creators of MiiSU'
 description:      "We're ranting, sharing development and workshop adventures."
 url:              http://miisu.co.uk/blog/
 baseurl:          /blog
