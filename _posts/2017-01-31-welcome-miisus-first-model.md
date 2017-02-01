@@ -6,7 +6,7 @@ image: /public/images/miisu_valetine.jpg
 
 ![RED HEART FILIGREE NECKLACE]({{ site.baseurl }}/public/images/twitter_red_heart.jpg)
 
-Not long ago, we've created a Pinterest board called [Fashion Sketch](https://uk.pinterest.com/MiiSUjewel/fashion-sketch/). After a couple of days, we were amazed by the many hits and pins on that board. At that moment we realised, we've not highlighted enough the one of the most important part of MiiSU: where does it fit fashion? How can you wear it and why we call it elegant and filigree? What does "Clear lines in Design" mean? Why is it "Special & Captivating"? What do we mean by Coziness & Quality?
+Not long ago, we've created a Pinterest board called [Fashion Sketch](https://uk.pinterest.com/MiiSUjewel/fashion-sketch/). After a couple of days, we were amazed by the many hits and pins on that board. At that moment we realised, we've not highlighted enough one of the most important part of MiiSU: where does it fit fashion? How can you wear it and why we call it elegant and filigree? What does "Clear lines in Design" mean? Why is it "Special & Captivating"? What do we mean by Coziness & Quality?
 
 To answer that, you have to see the jewellery in context. In an environment where it belongs, where it lives. Where it makes the best out of it.
 
