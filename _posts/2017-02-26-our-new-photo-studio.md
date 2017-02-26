@@ -12,7 +12,7 @@ I started to experiment with some low-cost DIY solutions to make sure our photos
 
 First of all, at the time, I did not realised what we really needed. I wanted to create a nice light box, where we can have a well-diffused light coming from two directions, making sure there are no sharp shadows around the product. But, I was wrong.
 
-After a couple of setups, I've realised how and why those images worked we took in the past.
+After a couple of setups, I found out how and why those images worked we took in the past.
 
 We had the following:
 
