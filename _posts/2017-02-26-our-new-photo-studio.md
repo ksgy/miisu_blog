@@ -22,7 +22,7 @@ We had the following:
 
 I approached the problem from the wrong end. I tried to mimic the environment, instead of trying to achieve what we really needed: a great, controlled shine on our products. How can we achieve this?
 
-We needed to make our own artificial window! The bigger and brighter, the better.
+We needed to create our own artificial window! The bigger and brighter, the better.
 
 We bought two 500W halogen Tungsten lights and put around our new setup. One behind the lightbox to get some backlight if needed, and one on the side, so we can control how and where the product shines.
 
