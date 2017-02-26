@@ -27,6 +27,7 @@ We needed to create our own artificial window! The bigger and brighter, the bett
 We bought two 500W halogen Tungsten lights and put around our new setup. One behind the lightbox to get some backlight if needed, and one on the side, so we can control how and where the product shines.
 
 ![Our new photo studio]({{ site.baseurl }}/public/images/photo_studio_1.jpg)
+<br /><br />
 
 The first test shots are very promising compared what we could accomplish using only natural light, usually in a very narrow time-frame.
 
