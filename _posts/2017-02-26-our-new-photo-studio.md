@@ -36,4 +36,4 @@ The first test shots are very promising compared what we could accomplish using 
 ![Our new photo studio]({{ site.baseurl }}/public/images/photo_studio_4.jpg)
 
 Come along on our digital photography journey and follow us on twitter:
-[@miishooots](http://twitter.com/miishooots)
+[@miishooot](http://twitter.com/miishooot)
