@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/cd-image.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <!-- Icons -->
@@ -53,6 +54,10 @@
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.url }}{% else %}{{ site.logo }}{% endif %}">
   <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+
+  <script src="{{ site.baseurl }}/public/js/jquery-2.1.1.js"></script>
+  <script src="{{ site.baseurl }}/public/js/jquery.mobile.custom.min.js"></script> <!-- Resource jQuery -->
+  <script src="{{ site.baseurl }}/public/js/main.js"></script> <!-- Resource jQuery -->
 
 
 </head>
