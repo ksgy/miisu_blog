@@ -88,4 +88,4 @@ That's something worth doing the post-processing on! :)
 ## Final thoughts
 I'm getting to the point, where I dare to say: product photography really is about lights and shadows. Nothing else. If you don't have the proper light settings and a spot-on setup, your gear is not going to save you. No matter what camera or lens you have.
 
-I still feel, I'm nowhere near where I'd like to be and there are still a lot to learn. Every piece is a different challenge and needs a different point of view. But I keep experimenting with the lights and shadows and how to improve them.
+I still feel I'm nowhere near where I'd like to be and there are still a lot to learn. Every piece is a different challenge and needs a different point of view. But I keep experimenting with the lights and shadows and how to improve them.
