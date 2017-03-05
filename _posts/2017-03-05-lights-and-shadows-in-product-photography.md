@@ -77,7 +77,7 @@ I wanted to increase the contrast, enhance the edges, emphasise the curves of ea
 </figure>
 
 
-That's something worth doing the post-processing on! But first of all, I'm going to re-take this photo on a clean paper sheet :)
+That's something worth doing the post-processing on! :)
 
 ##### The final result, with post-processing
 ![Lights and shadows in product photography - The final result]({{ site.baseurl }}/public/images/lights-and-shadows-in-product-photography-4.jpg)
