@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lights and shadows
-image: /public/images/lights-and-shadows-in-product-photography.jpg
+image: /public/images/lights-and-shadows-in-product-photography-5.jpg
 ---
 
 A couple of days ago, we've set up our little studio for product photography, shooting MiiSU's jewels.
