@@ -2,6 +2,7 @@
 layout: post
 title: Opening soon!
 image: /public/images/dslr.jpg
+excerpt: The last 7 months was really busy for us and for the brand as well. Lots of planning, preparing, executing and of course, learning :)
 ---
 
 ## Last 7 months

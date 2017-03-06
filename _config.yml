@@ -21,7 +21,7 @@ author:
   url:            https://twitter.com/mdo
   twitter:        miisujewel
 
-paginate:         5
+paginate:         10
 paginate_path: "page:num"
 
 # Custom vars

@@ -2,6 +2,7 @@
 layout: post
 title: Welcome, MiiSU's first model!
 image: /public/images/miisu_valetine.jpg
+excerpt: We love art and fashion, mixed with simplicity and elegance, showing the gist of each jewellery.
 ---
 
 ![RED HEART FILIGREE NECKLACE]({{ site.baseurl }}/public/images/twitter_red_heart.jpg)

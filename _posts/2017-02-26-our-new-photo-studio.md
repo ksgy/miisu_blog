@@ -2,6 +2,7 @@
 layout: post
 title: Our new photo studio
 image: /public/images/photo_studio_1.jpg
+excerpt: When I started shooting product photos with DSLR, I quickly realised that I need light. A lot. Not just sunshine through a window - which is quite rare in the UK anyway - but a controlled light, which we can rely on, any day, any time.
 ---
 
 Yesterday, the last part has finally arrived for our little studio.

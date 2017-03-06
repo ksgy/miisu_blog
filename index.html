@@ -5,6 +5,8 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
+  {% assign loopindex = forloop.index %}
+
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.url }}{{ post.url }}">
@@ -14,7 +16,12 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
+    {% if loopindex == 1 %}
     {{ post.content }}
+    {% else %}
+    {{ post.excerpt }}
+    <p class="read-more"><a href="{{ site.url }}{{ post.url }}">Read more...</a></p>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

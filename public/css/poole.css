@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 2.2rem;
 }
 h2 {
   margin-top: 2rem;
@@ -100,7 +100,7 @@ h3 {
 }
 h4, h5, h6 {
   margin-top: 1.5rem;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 /* Body text */
@@ -327,10 +327,33 @@ tbody tr:nth-child(odd) th {
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
  */
+.page:first-child,
+.post:first-child
+{
+  border-bottom: 1px solid #eee;
+  margin-top: 0;
+  padding-bottom: 5em;
+}
+
+.post:first-child + .post {
+  margin-top: 7em;
+}
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-top: 4em;
+  position: relative;
+}
+
+.page:first-child:after,
+.post:first-child:after {
+  position: absolute;
+  left: 50%;
+  bottom: -45px;
+  display: block;
+  content: url(../images/ii.jpg);
+  margin-left: -40px;
+  z-index: 100;
 }
 
 /* Blog post or page title */
