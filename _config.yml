@@ -16,10 +16,15 @@ logo:             http://miisu.co.uk/skin/frontend/miisu/vstyle/images/promo1.jp
 twitter:
   username:       miisujewel
 
-author:
-  name:           'MiiSU'
-  url:            https://twitter.com/mdo
-  twitter:        miisujewel
+authors:
+  misu:
+    name:           'mihaly'
+    url:            https://miisu.co.uk
+    twitter:        miishooot
+  judit:
+    name:           'judit'
+    url:            https://miisu.co.uk
+    twitter:        miisujewel
 
 paginate:         10
 paginate_path: "page:num"

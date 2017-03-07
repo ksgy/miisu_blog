@@ -2,6 +2,7 @@
 layout: post
 title: Welcome, MiiSU's first model!
 image: /public/images/miisu_valetine.jpg
+author: [judit]
 excerpt: We love art and fashion, mixed with simplicity and elegance, showing the gist of each jewellery.
 ---
 

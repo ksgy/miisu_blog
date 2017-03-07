@@ -18,6 +18,11 @@ title: Home
 
     {% if loopindex == 1 %}
     {{ post.content }}
+    <p class="author">&mdash;
+      {% for author in post.author %}
+      <a href="https://twitter.com/{{ site.authors[author].twitter }}">{{ site.authors[author].name }}</a>{% if forloop.length > 0 %} {% unless forloop.last %} &amp; {% endunless %} {%endif%}
+      {% endfor %}
+    </p>
     {% else %}
     {{ post.excerpt }}
     <p class="read-more"><a href="{{ site.url }}{{ post.url }}">Read more...</a></p>
