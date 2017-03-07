@@ -86,7 +86,7 @@ That's something worth doing the post-processing on! :)
 
 ![Lights and shadows in product photography - CORAL LEAFS FILIGREE NECKLACE]({{ site.baseurl }}/public/images/lights-and-shadows-in-product-photography-5.jpg)
 
-[https://miisu.co.uk/coral-leafs-filigree](Coral Leafs Filigree Necklace)
+Here's the final product &mdash; [Coral Leafs Filigree Necklace](https://miisu.co.uk/coral-leafs-filigree) &mdash; which's photo we worked on for that many hours :)
 
 ## Final thoughts
 I'm getting to the point, where I dare to say: product photography really is about lights and shadows. Nothing else. If you don't have the proper light settings and a spot-on setup, your gear is not going to save you. No matter what camera or lens you have.
