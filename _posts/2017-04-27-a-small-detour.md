@@ -2,6 +2,7 @@
 layout: post
 title: A small detour
 author: [misu]
+image: /public/images/a-small-detour.jpg
 excerpt: In the past two months, I've been shooting all around London, trying out new styles, stretching boundaries.
 ---
 
