@@ -14,7 +14,7 @@ The first photos were much better than before, but still, was lacking something.
 
 The other day I ran into a couple of twitter accounts with amazing product photos - showing the true shape of their pieces. On many photos, I found they're playing with glare and shadows to highlight the shape of the jewellery. I started to have a closer look at their reflections. How do they set up their lighting equipment? How do they position? How they make that piece *shine*? This was an eye-opener experience, even I watched this video about product photography many many times in the past:
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/suutt0IsqUM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/JP3ykBzk_RU" frameborder="0" allowfullscreen></iframe>
 
 I watched again and it all came together. It's about shadows and lights on a product. That's what matters. It's so obvious, but still, you have to have the full picture in your head. How the light bounces off the product, how you can control those lights, what works best for that specific shape and colour.
 
