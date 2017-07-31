@@ -3,12 +3,12 @@ layout: post
 title: A more controlled way
 author: [misu]
 image: /public/images/a-more-controlled-way.jpg
-excerpt: After a long thinking and evaluation period, I came to a conclusion which part of photography interest me. So far, I tried...
+excerpt: After a long thinking and evaluation period, I came to a conclusion which part of photography interests me. So far, I tried...
 ---
 
 So I was playing with our Nikon D3300 for a while now. Done lot of types of photography. Not saying I'm mastered in each of them, just tried to play around.
 
-After a long thinking and evaluation period, I came to a conclusion which part of photography interest me. So far, I tried to recreate "famous" pictures and also get inspiration and make my own on these topics.
+After a long thinking and evaluation period, I came to a conclusion which part of photography interests me. So far, I tried to recreate "famous" pictures and also get inspiration and make my own on these topics.
 
 ## Street photography
 Tried that many times, as it's popular and so diverse. However, I just simply can't do much. I can't really find any inspiration. At least, not in "classic" street photography.
